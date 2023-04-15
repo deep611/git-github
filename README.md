@@ -1,2 +1,2 @@
 # git-github
-this is a tutorial for me means everything.
+which i want to learn in an effective way.
